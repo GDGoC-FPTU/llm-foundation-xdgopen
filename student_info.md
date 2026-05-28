@@ -1,0 +1,4 @@
+- Họ và Tên: Nguyễn Danh Thành
+- Email cá nhân đăng ký chương trình: nguyendanhthanh.dev@gmail.com
+- GitHub Username: xdgopen
+- Discord Username đã tham gia discord server: xdgopen
